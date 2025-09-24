@@ -1,0 +1,9 @@
+httpx>=0.27,<0.28
+flake8
+wemake-python-styleguide==0.19.2
+flake8-spellcheck
+flake8-docstrings
+isort
+mypy
+pytest
+coverage
