@@ -7,3 +7,5 @@ isort
 mypy
 pytest
 coverage
+flake8-rst-docstrings==0.3.0
+docutils<0.21
